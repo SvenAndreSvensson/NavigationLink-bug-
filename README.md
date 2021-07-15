@@ -1,6 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/31440186/125767064-f79adee4-e55b-491f-b82b-d7c99f4c146d.gif" width="222" >
 
-## `SwiftUI` NavigationLink bug?
+## `SwiftUI` `iOS 15` `Xcode 13.0 beta`
+## NavigationLink bug?
 
 The link only works once.
 
@@ -14,4 +15,4 @@ The link only works once.
 
 I found the same issue on the [developer forum](https://developer.apple.com/forums/thread/125979) 
 
-
+iOS 15, Xcode 13.0 beta
