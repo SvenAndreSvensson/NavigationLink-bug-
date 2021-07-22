@@ -2,6 +2,7 @@
 
 ## `SwiftUI` `iOS 15` `Xcode 13.0 beta`
 ## NavigationLink bug?
+*Fixed in Xcode version 13.0 beta 3 (13A5192j), iOS 15 beta 3*
 
 The link only works once.
 
@@ -16,3 +17,4 @@ The link only works once.
 I found the same issue on the [developer forum](https://developer.apple.com/forums/thread/125979) 
 
 iOS 15, Xcode 13.0 beta
+
